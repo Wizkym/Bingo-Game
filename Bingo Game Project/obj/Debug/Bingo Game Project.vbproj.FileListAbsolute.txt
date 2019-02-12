@@ -54,3 +54,15 @@ D:\Documents\School\CIST 2312 Visual Basic II\Bingo Game Solution\Bingo Game Pro
 D:\Documents\School\CIST 2312 Visual Basic II\Bingo Game Solution\Bingo Game Project\obj\Debug\Bingo Game Project.exe
 D:\Documents\School\CIST 2312 Visual Basic II\Bingo Game Solution\Bingo Game Project\obj\Debug\Bingo Game Project.xml
 D:\Documents\School\CIST 2312 Visual Basic II\Bingo Game Solution\Bingo Game Project\obj\Debug\Bingo Game Project.pdb
+Z:\projects\dotnet\Bingo-Game\Bingo Game Project\bin\Debug\Bingo Game Project.exe.config
+Z:\projects\dotnet\Bingo-Game\Bingo Game Project\bin\Debug\Bingo Game Project.exe
+Z:\projects\dotnet\Bingo-Game\Bingo Game Project\bin\Debug\Bingo Game Project.pdb
+Z:\projects\dotnet\Bingo-Game\Bingo Game Project\bin\Debug\Bingo Game Project.xml
+Z:\projects\dotnet\Bingo-Game\Bingo Game Project\obj\Debug\Bingo Game Project.vbprojAssemblyReference.cache
+Z:\projects\dotnet\Bingo-Game\Bingo Game Project\obj\Debug\Bingo_Game_Project.mainForm.resources
+Z:\projects\dotnet\Bingo-Game\Bingo Game Project\obj\Debug\Bingo_Game_Project.Resources.resources
+Z:\projects\dotnet\Bingo-Game\Bingo Game Project\obj\Debug\Bingo Game Project.vbproj.GenerateResource.cache
+Z:\projects\dotnet\Bingo-Game\Bingo Game Project\obj\Debug\Bingo Game Project.vbproj.CoreCompileInputs.cache
+Z:\projects\dotnet\Bingo-Game\Bingo Game Project\obj\Debug\Bingo Game Project.exe
+Z:\projects\dotnet\Bingo-Game\Bingo Game Project\obj\Debug\Bingo Game Project.xml
+Z:\projects\dotnet\Bingo-Game\Bingo Game Project\obj\Debug\Bingo Game Project.pdb
